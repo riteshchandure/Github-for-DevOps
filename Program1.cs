@@ -6,3 +6,4 @@ class Program1
         console.WriteLine("HelloWord");
     }
 }
+This is my first commit on ec2
